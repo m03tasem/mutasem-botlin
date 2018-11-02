@@ -1,4 +1,4 @@
-# mutasem-botlin# Viprofix
+# Viprofix
 BOT PROTECT CREATOR & ADMIN
 ------
 GET TOKEN :
@@ -49,11 +49,11 @@ Di Termux :
 - Ketik -> `python2 vipro.py`
 
 
-Credit By@ ❂☞𖤍آبّہوِ ؏ۤـہمٰ̲ہر𖤍☜❂ .
+Credit By@ Vipro.
 ------
-- `Add My ID LINE : `https://line.me/ti/p/Yx3w20LEwb
+- `Add My ID LINE : gjxvipro`
 
-Thx To :❂☞𖤍آبّہوِ ؏ۤـہمٰ̲ہر𖤍☜❂
+Thx To :
 ------
-
+- `LINE-TCR TEAM`
 
